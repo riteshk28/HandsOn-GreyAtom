@@ -1,0 +1,8 @@
+
+NLP.ipynb is a very basic implementation of text classification and much more can be done in feature engineering to make such models robust in production.
+
+For proprietary reasons the, datasets named STAL has been removed.
+
+The data structure is similar to train.csv.
+
+First column is for text description and other is the tag for text description.
